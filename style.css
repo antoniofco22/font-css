@@ -1,0 +1,47 @@
+#bodyfont{background-image: url("https://logospng.org/download/css-3/logo-css-3-2048.png") ;
+    background-repeat: no-repeat;
+    font-family: "Courier", Courier, monospace;
+    background-color: rgba(70, 70, 136, 0.13);
+    background-size: cover;
+    position: relative;
+    margin: auto;
+    background-size: 40rem 40rem;
+    background-position-x: center;
+}
+h1{
+   font-size: 2rem; 
+}
+
+.primeira{
+    margin-top: 1rem;
+    text-decoration: rgb(75, 129, 230) wavy underline;
+   
+    font-weight: bold;
+}
+.segunda{
+    margin-top: 1rem;
+    text-decoration: rgb(230, 64, 22)  underline;
+   
+    font-weight:bold;
+}
+
+
+/*pagina direção de textos*/
+#bodydireção{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(229 155 155 / 30%);
+ }
+ p{
+    font-size: 2rem;
+    margin: 2rem;
+    margin-top: 15rem;
+ }
+ #horiz{
+   writing-mode: horizontal-tb;
+ }
+ #lr{
+    writing-mode: vertical-lr;
+  }
+  #rl{
+    writing-mode: horizontal-tb;
+  }
